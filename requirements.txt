@@ -1,0 +1,5 @@
+Package                   Version
+------------------------- --------------------
+opencv-contrib-python     3.4.18.65
+numpy                     1.26.3
+PIL                       10.2.0                          
